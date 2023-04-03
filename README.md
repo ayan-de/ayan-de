@@ -16,6 +16,7 @@ Developer who eats, sleeps, walks in JavaScript.
 I love to build Stuffs online, I am a developer who eats javascript, sells React, and Loves Node.But these days I am more fancy of Threejs.
 
 * 🌍  I'm based in India
+* LINUX ENTHUSIAST(it is future)
 - 👀 I’m interested in pogramming
 - 💞️ I’m looking to collaborate on app development
 * 🚀  I'm currently working on some freelance projects
