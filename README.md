@@ -11,6 +11,7 @@ Hi 👋 I'm Ayan De!
 ## Current Projects
 
 - 👉 **[Agent-Board](https://agentboard.ayande.xyz)** - OpenSouce TUI multi-coding-agent workflow
+- 👉 **[Freecode](https://freecode.ayande.xyz)** - Free ai coding agent
 - 👉 **[openscrim](https://openscrim.ayande.xyz)** - OpenSouce alternative of scrimba
 - 👉 **[contextcarry](https://cc.ayande.xyz)** - carry your context acrross session and agents + mcp
 - 👉 **[secureclaw](https://secureclaw.ayande.xyz)** - openclaw secured version
