@@ -21,3 +21,4 @@ Hi 👋 I'm Ayan De!
 - ⚡ **[ayan](https://cli.ayande.xyz)** - Blazing fast API testing tool in your terminal
 - 🪄 **[hover-explainer](https://ayande.xyz)** - VS Code extension that explains files and folders on hover
 - 🎬 **[video-transcode](https://cli.ayande.xyz)** - Video transcoding NPM package
+- 📊 **[heatmap](https://cli.ayande.xyz)** - Generate beautiful, customizable contribution heatmaps in your terminal with custom color, emoji
