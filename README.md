@@ -24,4 +24,4 @@ Hi 👋 I'm Ayan De!
 | 10 | 🪄 **[hover-explainer](https://ayande.xyz)** | VS Code extension that explains files and folders on hover | [📦](https://marketplace.visualstudio.com/items?itemName=ayande.hover-explainer) |
 | 11 | 🎬 **[video-transcode](https://cli.ayande.xyz)** | Video transcoding NPM package | [📦]() |
 | 12 | 📊 **[heatmap](https://ayande.xyz)** | Generate beautiful, customizable contribution heatmaps in your terminal with custom color, emoji | [📦](https://www.npmjs.com/package/@thisisayande/terminal-heatmap) |
-| 13 | ✨ **[tokentracker](https://tokentracker.ayande.xyz/))** | Track Your AI Spend Directly From Your Desktop | [📦]([https://www.npmjs.com/package/@thisisayande/terminal-heatmap](https://github.com/ayan-de/Token-Tracker/actions)) |
+| 13 | ✨ **[tokentracker](https://tokentracker.ayande.xyz/)** | Track Your AI Spend Directly From Your Desktop | [📦]([https://www.npmjs.com/package/@thisisayande/terminal-heatmap](https://github.com/ayan-de/Token-Tracker/actions)) |
