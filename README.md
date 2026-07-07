@@ -25,3 +25,4 @@ Hi 👋 I'm Ayan De!
 | 11 | 🎬 **[video-transcode](https://cli.ayande.xyz)** | Video transcoding NPM package | [📦]() |
 | 12 | 📊 **[heatmap](https://ayande.xyz)** | Generate beautiful, customizable contribution heatmaps in your terminal with custom color, emoji | [📦](https://www.npmjs.com/package/@thisisayande/terminal-heatmap) |
 | 13 | ✨ **[tokentracker](https://tokentracker.ayande.xyz/)** | Track Your AI Spend Directly From Your Desktop | [📦]([https://www.npmjs.com/package/@thisisayande/terminal-heatmap](https://github.com/ayan-de/Token-Tracker/actions)) |
+| 14 | 🧠 **[Claude Config](https://claudeconfig.ayande.xyz)** | Manage Claude Code provider profiles from a desktop UI  | [📦](https://github.com/ayan-de/claude-config) |
