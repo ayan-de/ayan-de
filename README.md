@@ -13,7 +13,7 @@ Hi 👋 I'm Ayan De!
 | # | Project | Description | npm |
 |---|---------|-------------|-----|
 | 1 | 🤖 **[Agent-Board](https://agentboard.ayande.xyz)** | OpenSource TUI multi-coding-agent workflow | [📦](https://www.npmjs.com/package/@thisisayande/agentboard) |
-| 2 | 🧠 **[Freecode](https://freecode.ayande.xyz)** | Free AI coding agent | [📦](https://www.npmjs.com/package/@thisisayande/freecode) |
+| 2 | 🧠 **[Freecode](https://freecode.website/)** | Free AI coding agent | [📦](https://www.npmjs.com/package/@thisisayande/freecode) |
 | 3 | 🎓 **[openscrim](https://openscrim.ayande.xyz)** | OpenSource alternative to Scrimba | [📦]() |
 | 4 | 🔄 **[contextcarry](https://cc.ayande.xyz)** | Carry your context across sessions and agents + MCP | [📦](https://www.npmjs.com/package/@thisisayande/contextcarry-mcp) |
 | 5 | 🛡️ **[secureclaw](https://secureclaw.ayande.xyz)** | OpenClaw secured version |[📦]() |
